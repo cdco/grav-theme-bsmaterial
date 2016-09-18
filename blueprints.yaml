@@ -1,0 +1,13 @@
+name: BSMaterial	
+version: 0.1.0
+description: A Bootstrap theme based on the popular Bootstrap Material Design framework.
+icon: bold
+author:
+  name: cdco
+  email: karatekidmonkey@outlook.com
+homepage: https://github.com/cdco/grav-theme-bsmaterial
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/cdco/grav-theme-bsmaterial/issues
+readme: https://github.com/cdco/grav-theme-bsmaterial/blob/develop/README.md
+license: MIT
